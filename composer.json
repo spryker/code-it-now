@@ -43,5 +43,5 @@
             "dealerdirect/phpcodesniffer-composer-installer": true
         }
     },
-    "abandoned": "spryker/barcode-laminas"
+    "abandoned": true
 }
