@@ -4,6 +4,9 @@
 
 Module to work with https://github.com/codeitnowin/barcode-generator .
 
+**DEPRECATED - This module is not continued at this point.**
+Please use [LaminasBarcode](https://github.com/spryker/laminas-barcode) instead.
+
 ## Installation
 
 ```
